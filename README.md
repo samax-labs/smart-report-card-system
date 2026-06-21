@@ -1,4 +1,5 @@
 # School Report Card Generator & Academic Management System
+<img src="fine report.png" width="100%">
 
 > A modern, production-ready web application for managing secondary school academic records and generating professional report cards for **Senior One (S1) through Senior Six (S6)**.
 
